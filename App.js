@@ -91,7 +91,7 @@ export default function App() {
         <Appbar.Header mode="center-aligned" style={{ backgroundColor: '#55c' }}>
           <Appbar.Content title={'TODOs List'} style={{ backgroundColor: '#fff', borderRadius: 20 }} />
         </Appbar.Header>
-        <Text> List of TODOs! - Lê Nguyễn Minh Tuấn</Text>
+        <Text> List of TODOs! - LE DOAN THAI</Text>
         <FlatList
           style={{ flex: 1 }}
           data={todos}
